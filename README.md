@@ -1,4 +1,4 @@
-# OpencoreEFI For Monster Tulpar T7 20.3.2 i7 10875H
+# OpencoreEFI For (Tongfang GM7MG0R) Monster Tulpar T7 20.3.2 i7 10875H 
 This is my Opencore EFI and configurations that i am using.  
 Check the branches.  
 [MacOs13.3](https://github.com/Sonderman/OpencoreEFI-Monster_t7_20.3.2/tree/MacOs13.3 "MacOs13.3")
