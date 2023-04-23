@@ -7,4 +7,5 @@ Ethernet
 Screen Brightness   
 Fn Function Keys   
 All USB Ports  
+HD Camera   
 ------------
